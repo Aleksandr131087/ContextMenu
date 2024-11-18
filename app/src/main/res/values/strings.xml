@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="text_input">Введите оценку за урок</string>
+</resources>
